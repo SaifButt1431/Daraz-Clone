@@ -1,1 +1,2 @@
-# Daraz-Clone
+Hello there, 
+This project is a clone of the popular e-commerce platform Daraz, built using HTML, CSS, JavaScript, and Lococmotive.js. Daraz Clone aims to replicate the essential functionalities and user interface elements of the original Daraz website. Leveraging modern web development technologies, this clone provides users with a familiar shopping experience while showcasing the capabilities of front-end web development.
